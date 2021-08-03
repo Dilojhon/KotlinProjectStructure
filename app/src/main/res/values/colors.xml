@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF8800</color>
+    <color name="colorPrimaryDark">#FF8800</color>
+    <color name="colorAccent">#FF8800</color>
+    <color name="black">#FF000000</color>
+    <color name="text_color">#222222</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FF8800</color>
+    <color name="orange_radius">#80FF8800</color>
+    <color name="light_orange">#FBCB69</color>
+    <color name="otp">#C7C8CD</color>
+    <color name="grey">#757575</color>
+    <color name="dark_grey">#808080</color>
+    <color name="blue">#0645AD</color>
+    <color name="light_grey">#C7C8CD</color>
+    <color name="red">#FF0000</color>
+
+
+    <color name="search_background_color">#F2F2F2</color>
+
+    <color name="accept_order_card_one_color">#4CE4B1</color>
+    <color name="accept_order_card_two_color">#4252FF</color>
+    <color name="accept_order_card_three_color">#BEC2CE</color>
+
+    <color name="message_background_color">#f4f6f6</color>
+</resources>
